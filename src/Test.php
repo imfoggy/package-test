@@ -3,6 +3,6 @@ namespace foggy;
 
 class Test{
 	public function test(){
-		//echo "string-foggy";
+		echo "string-foggy";
 	}
 }
